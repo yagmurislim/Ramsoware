@@ -1,0 +1,15 @@
+Kriptoloji hem kriptografiyi hem de kriptanalizi kapsar. Kriptografi, şifreleme algoritmaları kullanarak şifreleme oluşturma bilimidir. Kriptanaliz, şifreleri kırmanın bilim ve sanatıdır. İlkel bilgisayarlar aslında şifreleri kırmak için icat edildi. Kriptografi teknikleri ile ilgili her şey kriptolojiyle ilgilidir, çünkü bir kişi onu kırmaya çalışmadan bir şifrenin güvenliği belirlenemez. Kriptografi terimi daha sık kullanılır ve kriptoloji anlamına gelir.
+
+Tarihçiler, kriptoloji kullanımını eski Mısır zamanlarına kadar uzandığını ve gizli kodların yazılı dil geliştirildikten hemen sonra geliştiğini öne sürüyor. Ayrıca, radyo yayınları veya cep telefonu konuşmaları gibi konuşmalar da kodlanabilir. Kriptoloji ve kriptografi teknikleri birçok kişiye oldukça ilgi çekici bir alan gibi görünüyor. Gizli mesajların deşifre edilmesi birçok gerilim romanının konusu olmuştur. Da Vinci Şifresi, insanlardan Magdalalı Meryem’in İsa Mesih'in ilk öğrencilerinden biri olduğunu gizlemeye çalışan, bir Katolik Kilisesi komplosunu ortaya çıkarmaya çalışan bir dizi ipucu ve kodun gizemini konu alır.
+
+Kriptografi Teknikleri
+Başlamadan önce kriptografide kullanılan bazı temel kavramlardan söz edelim.
+
+Plaintext: Orijinal, düz metin.
+Ciphertext: Şifrelenmiş metin.
+Cipher: Düz metni, şifrelenmiş metne çeviren algoritma. Şifreleme algoritması.
+Encipher (encrypt): Düz metni şifrelenmiş metne çevirme.
+Decipher (decrypt): Şifreli metinden düz metni kurtarma.
+Kriptografi: Şifreleme yöntem ve prensipleri.
+Kriptanaliz: Kod kırma. Şifre ya da anahtar kullanmadan deşifre etme yöntem ve prensipleri.
+Kriptoloji: Kriptografi ve kriptoloji yöntem ve prensiplerinin tümünü ifade eder.
